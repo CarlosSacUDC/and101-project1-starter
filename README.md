@@ -25,11 +25,11 @@ The following REQUIRED features are completed:
 The following STRETCH features are implemented:
 
 - [ ] Re-brand the app by modifying the UI
-- [ ] Modify the profile image by uploading a new image drawable
+- [x] Modify the profile image by uploading a new image drawable
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [x] Edited the app icon by uploading a new image drawable
 
 ## Video Demo
 
